@@ -1,0 +1,12 @@
+Editor configuration, see https://editorconfig.org
+root = true
+
+[*]
+charset = utf-8
+indentstyle = space
+indentsize = 2
+insertfinalnewline = true
+
+[*.md]
+maxlinelength = off
+trimtrailingwhitespace = false
